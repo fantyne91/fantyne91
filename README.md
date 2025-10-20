@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy María Ortiz
+#  ¡Hola! Soy María Ortiz
 
 🎨 **UX/UI Designer** | 💻 **Full Stack Developer** | 🎮 **Game Designer**
 
