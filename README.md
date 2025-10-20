@@ -43,12 +43,12 @@ Sitio optimizado para SEO con prerendering, Cloudflare Workers y estructura SPA 
 
 ---
 
-## 🧰 Formación
+##  Formación
 
-- 🎓 **Full Stack Developer** – Hack(io) Tech School (2024)  
-- 🎨 **UX/UI & Product Design** – The Power Tech School (2023)  
-- 💡 **Desarrollo de Aplicaciones Web (DAW)** – CIDEAD (2020)  
-- 🕹️ **Unreal Engine y Programación de Videojuegos**
+-  **Full Stack Developer** – Hack(io) Tech School (2024)  
+-  **UX/UI & Product Design** – The Power Tech School (2023)  
+-  **Desarrollo de Aplicaciones Web (DAW)** – CIDEAD (2020)  
+-  **Unreal Engine y Programación de Videojuegos**
 
 ---
 
